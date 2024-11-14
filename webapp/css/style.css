@@ -1,0 +1,116 @@
+.welcomeText {
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.infoTitle {
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 5px;
+
+}
+
+.infoText {
+  font-size: 16px;
+  color: #333;
+  padding-top: 10px;
+  padding-right: 250px;
+}
+
+.monthButtons {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.monthButtons.selected {
+  background-color: #7fa2ad;
+  color: white;
+}
+
+.monthBox {
+  padding-top: 20px;
+  padding-left: 55px;
+  padding-bottom: 50px;
+}
+
+.label {
+  padding-right: 20px;
+}
+
+.table {
+  padding-bottom: 20px;
+}
+
+.netto {
+  color: rgb(0, 138, 32);
+  font-weight: bolder;
+}
+
+.brutto {
+
+  color: rgb(0, 82, 82)
+}
+
+.Boldtext {
+  font-weight: bolder;
+  padding-left: 15px;
+}
+
+.secondBox {
+  padding-bottom: 10px;
+}
+
+.SaveBtn {
+  margin-left: 950px;
+}
+
+.Datum {
+  margin-left: 35px;
+}
+
+.DatumLabel {
+  margin-left: 150px;
+  margin-top: 15px;
+}
+
+.SignaLabel {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.deadlineText {
+  color: red;
+  font-weight: bolder;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.Transfer {
+  color: rgb(1, 223, 1);
+  background-color: rgb(3, 183, 21);
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-left: 560px;
+}
+
+.totalNettoWorktimeText {
+  font-weight: bolder;
+  color: green;
+  margin-left: 710px;
+  margin-top: 13px;
+}
+
+.TotalHoursBox {
+  margin-bottom: 20px;
+}
+
+.success-page {
+  text-align: center;
+
+}
+
+.success-icon {
+  color: green;
+}

@@ -1,0 +1,119 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m"
+  xmlns:l="sap.ui.layout"
+  xmlns:unified="sap.ui.unified"
+  controllerName="app.controller.Main">
+    <!-- Verknüpfung der View mit dem Main-Controller -->
+    <Shell>
+        <!-- UI5 Shell als Basis für die Anwendung -->
+        <App  id ="app">
+            <!-- App-Komponente zur Verwaltung der Seiten -->
+            <pages>
+                <Page title="{i18n>appTitle}">
+                    <content>
+                        <Panel headerText="{i18n>welcomeText}" class="sapUiResponsiveMargin">
+                            <content>
+                                <l:VerticalLayout>
+                                    <Text text="{i18n>infoTitle}" level="H2" class="infoTitle"/>
+                                    <FormattedText htmlText="{i18n>infoText}" class="infoText"/>
+                                </l:VerticalLayout>
+                            </content>
+                        </Panel>
+                        <Panel id= "panelnew" headerText="{i18n>panelnewheader}" class="sapUiResponsiveMargin">
+                            <!-- Panel für die Eingabe der Personalnummer und die Validierung -->
+                            <FlexBox justifyContent="Start" alignItems="Center">
+                                <Label text="{i18n>personalnummer}" class="label"/>
+                                <Input id="personalNumberInput" width="200px"/>
+                                <Button text="{i18n>validate}" id="validateButton" press="onValidatePersonalnummer" class="sapUiSmallMarginBegin"/>
+                                <Input id="employeeNameInput" width="200px" enabled="false" class="sapUiSmallMarginBegin"/>
+                                <Button text="{i18n>cancel}" id="cancelButton" press="onCancel" class="sapUiSmallMarginBegin" visible="false"/>
+                            </FlexBox>
+                        </Panel>
+                        <!-- Panel für die Zeiterfassung -->
+                        <Panel id= "panel2" headerText="{i18n>zeiterfassungpanel}" class="sapUiResponsiveMargin" visible="false">
+                            <VBox class="contentBox">
+                                <HBox class="monthBox" id="monthButtonsContainer" visible="false">
+                                    <Button text="{i18n>Monat1}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat2}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat3}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat4}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat5}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat6}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat7}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat8}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat9}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat10}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat11}" press="onMonthButtonPress" class="monthButtons"/>
+                                    <Button text="{i18n>Monat12}" press="onMonthButtonPress" class="monthButtons"/>
+                                </HBox>
+                                <HBox class="secondBox" id="SecondBox" visible="false">
+                                    <Text id="MonthNameOutput" width="150px" class="Boldtext"/>
+                                    <Button text="{i18n>btnsave}" press="onSaveChanges" class="SaveBtn"/>
+                                </HBox>
+                                <!-- Tabelle für die Zeiterfassung -->
+                                <Table id="timeTable" visible="false" items="{path: 'zeiterfassung>/selectedMonth/Days'}" class="table">
+                                    <columns>
+                                        <Column>
+                                            <Text text="{i18n>tabledate}"/>
+                                        </Column>
+                                        <Column>
+                                            <Text text="{i18n>tablefrom}"/>
+                                        </Column>
+                                        <Column>
+                                            <Text text="{i18n>tableto}"/>
+                                        </Column>
+                                        <Column>
+                                            <Text text="{i18n>tablebrutto}"/>
+                                        </Column>
+                                        <Column>
+                                            <Text text="{i18n>tablebreak}"/>
+                                        </Column>
+                                        <Column>
+                                            <Text text="{i18n>tablenetto}" class="netto"/>
+                                        </Column>
+                                    </columns>
+                                    <items>
+                                        <ColumnListItem>
+                                            <cells>
+                                                <!-- Zellen mit Datenbindung -->
+                                                <Input value="{zeiterfassung>Date}" editable="false"/>
+                                                <Input value="{zeiterfassung>von}"/>
+                                                <Input value="{zeiterfassung>bis}"/>
+                                                <Text text="{parts: ['zeiterfassung>von', 'zeiterfassung>bis'], formatter: '.calculateBruttoworktime'}" class="brutto"/>
+                                                <Input value="{zeiterfassung>pause}"/>
+                                                <Text text="{parts: ['zeiterfassung>von', 'zeiterfassung>bis', 'zeiterfassung>pause'], formatter: '.calculateNettoworktime'}" class="netto"/>
+                                            </cells>
+                                        </ColumnListItem>
+                                    </items>
+                                </Table>
+                                <!-- HBox zur Anzeige der Gesamtarbeitszeit -->
+                                <HBox id= "TotalHoursBox" class="TotalHoursBox" visible ="false">
+                                    <Button text="{i18n>btntotalworkhours}" press="OnCalculateTotal" class="sapUiSmallMarginBegin"/>
+                                    <Text id="totalNettoWorktimeText" class="totalNettoWorktimeText" visible="true"/>
+                                </HBox>
+                                <!-- HBox für Datumsauswahl und Signatur -->
+                                <HBox class="underbox" id="underbox" visible="false">
+                                    <Button text="{i18n>btnsave}" press="onSaveChanges" class="sapUiSmallMarginBegin"/>
+                                    <Label text="{i18n>tabledate}" class="DatumLabel"/>
+                                    <DatePicker width="200px" displayFormat="dd/MM/yyyy" valueFormat="yyyy-MM-dd" class="Datum" placeholder="{i18n>dateplaceholder}"/>
+                                    <Label text="{i18n>labelsignature}" class="SignaLabel" />
+                                    <unified:FileUploader id="fileUploader" change="onFileChange" placeholder="{i18n>signatureplaceholder}" width="100%"  class="sapUiSmallMarginBegin" buttonText= "{i18n>btnsignature}" />
+                                    <Image id="signatureImage" width="200px" height="100px" visible="false"  class="sapUiSmallMarginBegin"/>
+                                </HBox>
+                            </VBox>
+                        </Panel>
+                        <!-- Panel für Export und Validierung -->
+                        <Panel id="panel3" headerText="{i18n>panel3header}" class="sapUiResponsiveMargin" visible="false">
+                            <content>
+                                <Button text="{i18n>exporttext}" press="onExportPDF" class="sapUiSmallMargin"/>
+                                <Text id="deadlineText" class="deadlineText" />
+                                <!-- Anzeige für Fristen -->
+                                <Button text="{i18n>btnvalidate}" press="onTransferTable" class="Transfer"/>
+                            </content>
+                        </Panel>
+                    </content>
+                </Page>
+            </pages>
+        </App>
+    </Shell>
+</mvc:View>

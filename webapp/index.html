@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>UI5 Zeiterfassung APP</title>
+
+  <!-- Einbinden des SAPUI5-Bootstraps mit den notwendigen Bibliotheken und Einstellungen -->
+  <script id="sap-ui-bootstrap" src="https://sapui5.hana.ondemand.com/resources/sap-ui-core.js"
+    data-sap-ui-theme="sap_belize" data-sap-ui-libs="sap.ui.unified, sap.m, sap.ui.layout, sap.ui.commons, sap.ui.core"
+    data-sap-ui-async="true" data-sap-ui-compatVersion="edge" data-sap-ui-xx-waitForTheme="init"
+    data-sap-ui-oninit="module:sap/ui/core/ComponentSupport" data-sap-ui-resourceroots='{"app": "./"}'>
+    </script>
+
+  <!-- Einbinden der html2canvas- und jspdf-Bibliotheken für PDF-Export -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"> </script>
+</head>
+
+
+<body class="sapUiBody" id="content">
+  <!-- Container für die UI5-Komponente -->
+  <div data-sap-ui-component data-name="app" data-id="container" data-settings='{"id" : "app"}'></div>
+  </div>
+</body>
+
+</html>

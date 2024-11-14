@@ -1,0 +1,4305 @@
+{
+  "employees": [
+    {
+      "Personalnummer": "123456",
+      "Name": "Fadi Najari",
+      "Vorgesetzter": "Maxi Mustermann",
+      "Year": 2024,
+      "Months": [
+        {
+          "Month": "Januar",
+          "Days": [
+            {
+              "Date": "Montag, 2024-01-01",
+              "Tag": "Montag",
+              "von": "11:00",
+              "bis": "17:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Dienstag, 2024-01-02",
+              "Tag": "Dienstag",
+              "von": "11:00",
+              "bis": "13:00",
+              "pause": "1:00"
+            },
+            {
+              "Date": "Mittwoch, 2024-01-03",
+              "Tag": "Mittwoch",
+              "von": "8:15",
+              "bis": "16:45",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Donnerstag, 2024-01-04",
+              "Tag": "Donnerstag",
+              "von": "8:00",
+              "bis": "16:45",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Freitag, 2024-01-05",
+              "Tag": "Freitag",
+              "von": "10:00",
+              "bis": "17:00",
+              "pause": "1:00"
+            },
+            {
+              "Date": "Montag, 2024-01-08",
+              "Tag": "Montag",
+              "von": "10:00",
+              "bis": "17:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Dienstag, 2024-01-09",
+              "Tag": "Dienstag",
+              "von": "8:00",
+              "bis": "17:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Mittwoch, 2024-01-10",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-01-11",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-01-12",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-01-15",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-01-16",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-01-17",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-01-18",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-01-19",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-01-22",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-01-23",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-01-24",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-01-25",
+              "Tag": "Donnerstag",
+              "von": "8:00",
+              "bis": "17:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Freitag, 2024-01-26",
+              "Tag": "Freitag",
+              "von": "9:00",
+              "bis": "12:30",
+              "pause": "0:50"
+            },
+            {
+              "Date": "Montag, 2024-01-29",
+              "Tag": "Montag",
+              "von": "8:00",
+              "bis": "16:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Dienstag, 2024-01-30",
+              "Tag": "Dienstag",
+              "von": "10:00",
+              "bis": "11:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Mittwoch, 2024-01-31",
+              "Tag": "Mittwoch",
+              "von": "10:00",
+              "bis": "18:00",
+              "pause": "3:00"
+            }
+          ]
+        },
+        {
+          "Month": "Februar",
+          "Days": [
+            {
+              "Date": "Donnerstag, 2024-02-01",
+              "Tag": "Donnerstag",
+              "von": "10:00",
+              "bis": "12:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Freitag, 2024-02-02",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-05",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-06",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-07",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-08",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-02-09",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-12",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-13",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-14",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-15",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-02-16",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-19",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-20",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-21",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-22",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-02-23",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-26",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-27",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-28",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-29",
+              "Tag": "Donnerstag",
+              "von": "10:00",
+              "bis": "12:00",
+              "pause": "0:30"
+            }
+          ]
+        },
+        {
+          "Month": "März",
+          "Days": [
+            {
+              "Date": "Freitag, 2024-03-01",
+              "Tag": "Freitag",
+              "von": "8:00",
+              "bis": "16:00",
+              "pause": "0:45"
+            },
+            {
+              "Date": "Montag, 2024-03-04",
+              "Tag": "Montag",
+              "von": "9:00",
+              "bis": "13:00",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-05",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-06",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-07",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-08",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-03-11",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-12",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-13",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-14",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-15",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-03-18",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-19",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-20",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-21",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-22",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-03-25",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-26",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-27",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-28",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-29",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "April",
+          "Days": [
+            {
+              "Date": "Montag, 2024-04-01",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-02",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-03",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-04",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-05",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-08",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-09",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-10",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-11",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-12",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-15",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-16",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-17",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-18",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-19",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-22",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-23",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-24",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-25",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-26",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-29",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-30",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Mai",
+          "Days": [
+            {
+              "Date": "Mittwoch, 2024-05-01",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-02",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-03",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-06",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-07",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-08",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-09",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-10",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-13",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-14",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-15",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-16",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-17",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-20",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-21",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-22",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-23",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-24",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-27",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-28",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-29",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-30",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-31",
+              "Tag": "Freitag",
+              "von": "1:00",
+              "bis": "9:00",
+              "pause": "1:00"
+            }
+          ]
+        },
+        {
+          "Month": "Mai",
+          "Days": [
+            {
+              "Date": "Mittwoch, 2024-05-01",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-02",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-03",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-06",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-07",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-08",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-09",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-10",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-13",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-14",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-15",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-16",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-17",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-20",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-21",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-22",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-23",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-24",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-27",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-28",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-29",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-30",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-31",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Juni",
+          "Days": [
+            {
+              "Date": "Montag, 2024-06-03",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-04",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-05",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-06",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-07",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-06-10",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-11",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-12",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-13",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-14",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-06-17",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-18",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-19",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-20",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-21",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-06-24",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-25",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-26",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-27",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-28",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Juli",
+          "Days": [
+            {
+              "Date": "Montag, 2024-07-01",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-02",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-03",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-04",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-05",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-08",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-09",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-10",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-11",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-12",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-15",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-16",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-17",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-18",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-19",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-22",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-23",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-24",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-25",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-26",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-29",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-30",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-31",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "August",
+          "Days": [
+            {
+              "Date": "Donnerstag, 2024-08-01",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-02",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-05",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-06",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-07",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-08",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-09",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-12",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-13",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-14",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-15",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-16",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-19",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-20",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-21",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-22",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-23",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-26",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-27",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-28",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-29",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-30",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "September",
+          "Days": [
+            {
+              "Date": "Montag, 02.09.2024",
+              "Tag": "Montag",
+              "von": "8:15",
+              "bis": "16:45",
+              "pause": "1:00"
+            },
+            {
+              "Date": "Dienstag, 03.09.2024",
+              "Tag": "Dienstag",
+              "von": "8:30",
+              "bis": "17:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Mittwoch, 04.09.2024",
+              "Tag": "Mittwoch",
+              "von": "12:00",
+              "bis": "16:00",
+              "pause": "0:00"
+            },
+            {
+              "Date": "Donnerstag, 05.09.2024",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 06.09.2024",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 09.09.2024",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 10.09.2024",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 11.09.2024",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-09-12",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-09-13",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-09-16",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-09-17",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-09-18",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-09-19",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-09-20",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 23.09.2024",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 24.09.2024",
+              "Tag": "Dienstag",
+              "von": "8:00",
+              "bis": "17:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Mittwoch, 25.09.2024",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 26.09.2024",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 27.09.2024",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 30.09.2024",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Oktober",
+          "Days": [
+            {
+              "Date": "Dienstag, 2024-10-01",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-02",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-03",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-04",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-07",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-08",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-09",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-10",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-11",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-14",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-15",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-16",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-17",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-18",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-21",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-22",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-23",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-24",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-25",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-28",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-29",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-30",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-31",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "November",
+          "Days": [
+            {
+              "Date": "Freitag, 2024-11-01",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-04",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-05",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-06",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-07",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-08",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-11",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-12",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-13",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-14",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-15",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-18",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-19",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-20",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-21",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-22",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-25",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-26",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-27",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-28",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-29",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Dezember",
+          "Days": [
+            {
+              "Date": "Montag, 2024-12-02",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-03",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-04",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-05",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-06",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-09",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-10",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-11",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-12",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-13",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-16",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-17",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-18",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-19",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-20",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-23",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-24",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-25",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-26",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-27",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-30",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-31",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Personalnummer": "654321",
+      "Name": "Layla Davies",
+      "Year": 2024,
+      "Months": [
+        {
+          "Month": "Januar",
+          "Days": [
+            {
+              "Date": "Montag, 2024-01-01",
+              "Tag": "Montag",
+              "von": "10:00",
+              "bis": "16:00",
+              "pause": "1:00"
+            },
+            {
+              "Date": "Dienstag, 2024-01-02",
+              "Tag": "Dienstag",
+              "von": "10:00",
+              "bis": "16:00",
+              "pause": "0:30"
+            },
+            {
+              "Date": "Mittwoch, 2024-01-03",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-01-04",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-01-05",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-01-08",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-01-09",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-01-10",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-01-11",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-01-12",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-01-15",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-01-16",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-01-17",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-01-18",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-01-19",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-01-22",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-01-23",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-01-24",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-01-25",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-01-26",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-01-29",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-01-30",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-01-31",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Februar",
+          "Days": [
+            {
+              "Date": "Donnerstag, 2024-02-01",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-02-02",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-05",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-06",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-07",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-08",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-02-09",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-12",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-13",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-14",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-15",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-02-16",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-19",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-20",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-21",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-22",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-02-23",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-02-26",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-02-27",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-02-28",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-02-29",
+              "Tag": "Donnerstag",
+              "von": "10:00",
+              "bis": "12:00",
+              "pause": "0:30"
+            }
+          ]
+        },
+        {
+          "Month": "März",
+          "Days": [
+            {
+              "Date": "Freitag, 2024-03-01",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-03-04",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-05",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-06",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-07",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-08",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-03-11",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-12",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-13",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-14",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-15",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-03-18",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-19",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-20",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-21",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-22",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-03-25",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-03-26",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-03-27",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-03-28",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-03-29",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "April",
+          "Days": [
+            {
+              "Date": "Montag, 2024-04-01",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-02",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-03",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-04",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-05",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-08",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-09",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-10",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-11",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-12",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-15",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-16",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-17",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-18",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-19",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-22",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-23",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-04-24",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-04-25",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-04-26",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-04-29",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-04-30",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Mai",
+          "Days": [
+            {
+              "Date": "Mittwoch, 2024-05-01",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-02",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-03",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-06",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-07",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-08",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-09",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-10",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-13",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-14",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-15",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-16",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-17",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-20",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-21",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-22",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-23",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-24",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-27",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-28",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-29",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-30",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-31",
+              "Tag": "Freitag",
+              "von": "1:00",
+              "bis": "9:00",
+              "pause": "1:00"
+            }
+          ]
+        },
+        {
+          "Month": "Mai",
+          "Days": [
+            {
+              "Date": "Mittwoch, 2024-05-01",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-02",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-03",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-06",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-07",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-08",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-09",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-10",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-13",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-14",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-15",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-16",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-17",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-20",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-21",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-22",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-23",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-24",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-05-27",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-05-28",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-05-29",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-05-30",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-05-31",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Juni",
+          "Days": [
+            {
+              "Date": "Montag, 2024-06-03",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-04",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-05",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-06",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-07",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-06-10",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-11",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-12",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-13",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-14",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-06-17",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-18",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-19",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-20",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-21",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-06-24",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-06-25",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-06-26",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-06-27",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-06-28",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Juli",
+          "Days": [
+            {
+              "Date": "Montag, 2024-07-01",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-02",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-03",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-04",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-05",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-08",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-09",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-10",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-11",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-12",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-15",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-16",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-17",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-18",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-19",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-22",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-23",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-24",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-07-25",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-07-26",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-07-29",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-07-30",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-07-31",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "August",
+          "Days": [
+            {
+              "Date": "Donnerstag, 2024-08-01",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-02",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-05",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-06",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-07",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-08",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-09",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-12",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-13",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-14",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-15",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-16",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-19",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-20",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-21",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-22",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-23",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-08-26",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-08-27",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-08-28",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-08-29",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-08-30",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "September",
+          "Days": [
+            {
+              "Date": "Montag, 2024-09-02",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-09-03",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-09-04",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-09-05",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-09-06",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-09-09",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-09-10",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-09-11",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-09-12",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-09-13",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-09-16",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-09-17",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-09-18",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-09-19",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-09-20",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-09-23",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-09-24",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-09-25",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-09-26",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-09-27",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-09-30",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Oktober",
+          "Days": [
+            {
+              "Date": "Dienstag, 2024-10-01",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-02",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-03",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-04",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-07",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-08",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-09",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-10",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-11",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-14",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-15",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-16",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-17",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-18",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-21",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-22",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-23",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-24",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-10-25",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-10-28",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-10-29",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-10-30",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-10-31",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "November",
+          "Days": [
+            {
+              "Date": "Freitag, 2024-11-01",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-04",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-05",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-06",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-07",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-08",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-11",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-12",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-13",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-14",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-15",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-18",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-19",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-20",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-21",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-22",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-11-25",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-11-26",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-11-27",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-11-28",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-11-29",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        },
+        {
+          "Month": "Dezember",
+          "Days": [
+            {
+              "Date": "Montag, 2024-12-02",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-03",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-04",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-05",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-06",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-09",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-10",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-11",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-12",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-13",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-16",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-17",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-18",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-19",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-20",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-23",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-24",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Mittwoch, 2024-12-25",
+              "Tag": "Mittwoch",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Donnerstag, 2024-12-26",
+              "Tag": "Donnerstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Freitag, 2024-12-27",
+              "Tag": "Freitag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Montag, 2024-12-30",
+              "Tag": "Montag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            },
+            {
+              "Date": "Dienstag, 2024-12-31",
+              "Tag": "Dienstag",
+              "von": "",
+              "bis": "",
+              "pause": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "selectedMonth": {
+    "Month": "Januar",
+    "Days": [
+      {
+        "Date": "Montag, 2024-01-01",
+        "Tag": "Montag",
+        "von": "10:00",
+        "bis": "16:00",
+        "pause": "1:00"
+      },
+      {
+        "Date": "Dienstag, 2024-01-02",
+        "Tag": "Dienstag",
+        "von": "10:00",
+        "bis": "16:00",
+        "pause": "0:30"
+      },
+      {
+        "Date": "Mittwoch, 2024-01-03",
+        "Tag": "Mittwoch",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Donnerstag, 2024-01-04",
+        "Tag": "Donnerstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Freitag, 2024-01-05",
+        "Tag": "Freitag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Montag, 2024-01-08",
+        "Tag": "Montag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Dienstag, 2024-01-09",
+        "Tag": "Dienstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Mittwoch, 2024-01-10",
+        "Tag": "Mittwoch",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Donnerstag, 2024-01-11",
+        "Tag": "Donnerstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Freitag, 2024-01-12",
+        "Tag": "Freitag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Montag, 2024-01-15",
+        "Tag": "Montag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Dienstag, 2024-01-16",
+        "Tag": "Dienstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Mittwoch, 2024-01-17",
+        "Tag": "Mittwoch",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Donnerstag, 2024-01-18",
+        "Tag": "Donnerstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Freitag, 2024-01-19",
+        "Tag": "Freitag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Montag, 2024-01-22",
+        "Tag": "Montag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Dienstag, 2024-01-23",
+        "Tag": "Dienstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Mittwoch, 2024-01-24",
+        "Tag": "Mittwoch",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Donnerstag, 2024-01-25",
+        "Tag": "Donnerstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Freitag, 2024-01-26",
+        "Tag": "Freitag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Montag, 2024-01-29",
+        "Tag": "Montag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Dienstag, 2024-01-30",
+        "Tag": "Dienstag",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      },
+      {
+        "Date": "Mittwoch, 2024-01-31",
+        "Tag": "Mittwoch",
+        "von": "",
+        "bis": "",
+        "pause": ""
+      }
+    ]
+  }
+}
